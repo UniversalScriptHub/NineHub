@@ -1,0 +1,7 @@
+task.spawn(function()
+getgenv().SCRIPT_KEY = "KEYLESS"
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/c03026a97c4213d17b95d91cc21c67c47a3638561e87542ed3af48683b7268dd/download"))()  
+end)
+task.wait(0.2)
+
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/Z7KrHnCu5I/0"))()
