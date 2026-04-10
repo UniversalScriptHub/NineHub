@@ -1,5 +1,4 @@
 task.spawn(function()
-getgenv().SCRIPT_KEY = "KEYLESS"
   
 end)
 task.wait(0.2)
